@@ -1,3 +1,3 @@
-# tlk.github.io-
+# tlk
 Шаблон сайта логистической компании
-https://tkknopka.github.io/tlk.github.io/
+https://tkknopka.github.io/tlk/
