@@ -618,7 +618,7 @@ button, button:hover, button:focus, button:active
 	.footer_info__w {
 		justify-content: center;
 	}
-	.footer .phone {
+	.phone {
 		margin: 0 auto;
 	}
 }
