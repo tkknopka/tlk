@@ -242,9 +242,10 @@ button, button:hover, button:focus, button:active
 	line-height: 1.25em;
 }
 .detail__btn {
-	position: absolute;
+/*	position: absolute;
 	left: 525px;
-	top: 2px;
+	top: 2px;*/
+	width: 525px;
 	font-size: 16px;
 	font-family: 'Museo Sans Cyrl 700';
 	padding: 11px 40px;
@@ -507,9 +508,10 @@ button, button:hover, button:focus, button:active
 .mobile-menu {
 	display: inline-block;
 }
+/*
 .detail__btn {
 	left: 40%;
-}
+}*/
 .busines__text {
 	width: 275px;
 }
