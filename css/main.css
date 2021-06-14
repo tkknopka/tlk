@@ -50,9 +50,6 @@ button, button:hover, button:focus, button:active
 {
 	outline: none;
 }
-.container {
-	padding: 0;
-}
 .btn {
 	margin: 0 auto;
 	font-size: 13px;
